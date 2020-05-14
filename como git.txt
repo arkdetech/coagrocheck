@@ -1,0 +1,5 @@
+git clone https://github.com/arkdetech/coagrocheck.git
+git push -u origin master
+git commit -m 'Formulario de ingreso'
+git add .
+git pull 
